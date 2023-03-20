@@ -20,4 +20,7 @@ Software Engineer @ [Snapp! Box](https://snapp.ir/bike-delivery/).
 <img src="https://img.icons8.com/fluency/240/null/twitter.png" width="55" height="55"/> [Twitter](https://twitter.com/blue__farid)
 
 ## 📈 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blue-farid&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<div class="container" align="left">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=blue-farid&show_icons=true&theme=tokyonight"/>
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blue-farid&theme=tokyonight" align="right"/>
+</div>
